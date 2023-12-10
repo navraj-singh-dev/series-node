@@ -1,0 +1,4 @@
+Tasks performed -
+- installed node
+- ran "fs" and "os" modules in node (copyFile, writeFile, appendFile, deleteFile)
+- importing exporting in node using require and module.exports
