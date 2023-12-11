@@ -1,0 +1,5 @@
+accomplishemnt:
+- created a node http server
+- made it listem to a port
+- http, filesystem(fs), url modules are used
+- using javascript switch statement to handle requests on different endpoints
