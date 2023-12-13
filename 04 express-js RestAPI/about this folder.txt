@@ -1,0 +1,7 @@
+accomplishments - 
+
+- make a api that is restAPI, using express.js
+- download fake database data from some website in json
+- make hybrid routes (/something for browsers and send html here 
+  and /api/something for mobile applications and send json here)
+- make dynamic routes using : sign
