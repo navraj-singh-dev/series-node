@@ -1,0 +1,8 @@
+accomplishments - 
+
+- use mongoose to connect to the mongodb database.
+- make a userSchema using mongoose.
+- make a userModel using mongoose.
+- create different routes/endpoints using express.js.
+- implement `CRUD` in these routes using mongoose.
+- use a pre-made middleware to encode/parse the url.
